@@ -1,10 +1,10 @@
-# 🎮 Repositório da Turma de Jogos Digitais - SESI JP 2ºA (2025) 🚀
+# 🎮 Repositório da Turma de Jogos Digitais - SESI JP 2ºA (2026) 🚀
 
 ![GIF Programando](https://media1.tenor.com/m/QmVTfQw3pjYAAAAd/coding-scaler.gif)
 
 ## 🔥 Bem-vindos, Futuros Desenvolvedores de Jogos! 🔥
 
-Este é o nosso quartel-general digital para todas as missões, códigos e desafios da disciplina de **Lógica Computacional para Jogos Digitais** da turma **2ºA do SESI de João Pessoa, ano de 2025!**
+Este é o nosso quartel-general digital para todas as missões, códigos e desafios da disciplina de **Lógica Computacional para Jogos Digitais** da turma **2ºA do SESI de João Pessoa, ano de 2026!**
 
 Aqui, cada linha de código é um passo a mais na sua jornada para se tornar um criador de mundos e experiências interativas. Preparem seus teclados, afiem suas mentes lógicas e vamos juntos desbravar o universo da programação de games!
 
@@ -33,13 +33,13 @@ Aqui, cada linha de código é um passo a mais na sua jornada para se tornar um 
 
 ---
 
-## 🧑‍💻 Nossa Equipe de Desenvolvedores Estrelares (2ºA - 2025) 🌟
+## 🧑‍💻 Nossa Equipe de Desenvolvedores Estrelares (2ºA - 2026) 🌟
 
 É hora de deixar sua marca! Adicione seu nome abaixo.
 **Instrução:** Para adicionar seu nome com uma fonte diferente, você pode usar um pouco de HTML. Edite este arquivo `README.md` (clicando no ícone de lápis no GitHub) e adicione uma nova linha na lista abaixo seguindo o exemplo. Você pode usar geradores de "fontes para Instagram/web" e colar o texto, ou usar a tag `<font>`.
 
 *   **Exemplo Simples (Fonte Padrão):**
-    *   Seu Professor Incrível
+    *   Instrutor André
 
 *   **Exemplo com HTML (para mais estilo - use com moderação para não quebrar o layout):**
     *   <font face="Comic Sans MS" color="blue" size="4">Fulano de Tal - O Mago dos Códigos</font>
@@ -73,4 +73,4 @@ Espaço reservado para os projetos mais criativos e bem elaborados da turma! Que
 
 **Lembrem-se:** "Todo mestre já foi um desastre." - A jornada é feita de aprendizado, erros e muitas vitórias. Divirtam-se codando!
 
-**#SesiJP #JogosDigitais #2A2025 #GameDev #LogicaDeProgramacao #LevelUp**
+**#SesiJP #JogosDigitais #2A2026 #GameDev #LogicaDeProgramacao #LevelUp**
