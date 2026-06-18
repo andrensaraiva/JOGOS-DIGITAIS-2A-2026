@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\LYDIA-ARQUIVOS-JOGOS-DIGITAIS\Lydia 2 Série A\Lydia mesquita - programação\input e condicao\bin\Debug\net9.0\input e condicao.exe
+C:\Users\Aluno\Desktop\LYDIA-ARQUIVOS-JOGOS-DIGITAIS\Lydia 2 Série A\Lydia mesquita - programação\input e condicao\bin\Debug\net9.0\input e condicao.deps.json
+C:\Users\Aluno\Desktop\LYDIA-ARQUIVOS-JOGOS-DIGITAIS\Lydia 2 Série A\Lydia mesquita - programação\input e condicao\bin\Debug\net9.0\input e condicao.runtimeconfig.json
+C:\Users\Aluno\Desktop\LYDIA-ARQUIVOS-JOGOS-DIGITAIS\Lydia 2 Série A\Lydia mesquita - programação\input e condicao\bin\Debug\net9.0\input e condicao.dll
+C:\Users\Aluno\Desktop\LYDIA-ARQUIVOS-JOGOS-DIGITAIS\Lydia 2 Série A\Lydia mesquita - programação\input e condicao\bin\Debug\net9.0\input e condicao.pdb
+C:\Users\Aluno\Desktop\LYDIA-ARQUIVOS-JOGOS-DIGITAIS\Lydia 2 Série A\Lydia mesquita - programação\input e condicao\obj\Debug\net9.0\input e condicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\LYDIA-ARQUIVOS-JOGOS-DIGITAIS\Lydia 2 Série A\Lydia mesquita - programação\input e condicao\obj\Debug\net9.0\input e condicao.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\LYDIA-ARQUIVOS-JOGOS-DIGITAIS\Lydia 2 Série A\Lydia mesquita - programação\input e condicao\obj\Debug\net9.0\input e condicao.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\LYDIA-ARQUIVOS-JOGOS-DIGITAIS\Lydia 2 Série A\Lydia mesquita - programação\input e condicao\obj\Debug\net9.0\input e condicao.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\LYDIA-ARQUIVOS-JOGOS-DIGITAIS\Lydia 2 Série A\Lydia mesquita - programação\input e condicao\obj\Debug\net9.0\input e condicao.sourcelink.json
+C:\Users\Aluno\Desktop\LYDIA-ARQUIVOS-JOGOS-DIGITAIS\Lydia 2 Série A\Lydia mesquita - programação\input e condicao\obj\Debug\net9.0\input e condicao.dll
+C:\Users\Aluno\Desktop\LYDIA-ARQUIVOS-JOGOS-DIGITAIS\Lydia 2 Série A\Lydia mesquita - programação\input e condicao\obj\Debug\net9.0\refint\input e condicao.dll
+C:\Users\Aluno\Desktop\LYDIA-ARQUIVOS-JOGOS-DIGITAIS\Lydia 2 Série A\Lydia mesquita - programação\input e condicao\obj\Debug\net9.0\input e condicao.pdb
+C:\Users\Aluno\Desktop\LYDIA-ARQUIVOS-JOGOS-DIGITAIS\Lydia 2 Série A\Lydia mesquita - programação\input e condicao\obj\Debug\net9.0\input e condicao.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\LYDIA-ARQUIVOS-JOGOS-DIGITAIS\Lydia 2 Série A\Lydia mesquita - programação\input e condicao\obj\Debug\net9.0\ref\input e condicao.dll

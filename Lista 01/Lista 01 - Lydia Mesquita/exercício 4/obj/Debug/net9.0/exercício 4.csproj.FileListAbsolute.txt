@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\LYDIA-ARQUIVOS-JOGOS-DIGITAIS\Lydia 2 Série A\Lydia mesquita - programação\exercício 4\bin\Debug\net9.0\exercício 4.exe
+C:\Users\Aluno\Desktop\LYDIA-ARQUIVOS-JOGOS-DIGITAIS\Lydia 2 Série A\Lydia mesquita - programação\exercício 4\bin\Debug\net9.0\exercício 4.deps.json
+C:\Users\Aluno\Desktop\LYDIA-ARQUIVOS-JOGOS-DIGITAIS\Lydia 2 Série A\Lydia mesquita - programação\exercício 4\bin\Debug\net9.0\exercício 4.runtimeconfig.json
+C:\Users\Aluno\Desktop\LYDIA-ARQUIVOS-JOGOS-DIGITAIS\Lydia 2 Série A\Lydia mesquita - programação\exercício 4\bin\Debug\net9.0\exercício 4.dll
+C:\Users\Aluno\Desktop\LYDIA-ARQUIVOS-JOGOS-DIGITAIS\Lydia 2 Série A\Lydia mesquita - programação\exercício 4\bin\Debug\net9.0\exercício 4.pdb
+C:\Users\Aluno\Desktop\LYDIA-ARQUIVOS-JOGOS-DIGITAIS\Lydia 2 Série A\Lydia mesquita - programação\exercício 4\obj\Debug\net9.0\exercício 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\LYDIA-ARQUIVOS-JOGOS-DIGITAIS\Lydia 2 Série A\Lydia mesquita - programação\exercício 4\obj\Debug\net9.0\exercício 4.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\LYDIA-ARQUIVOS-JOGOS-DIGITAIS\Lydia 2 Série A\Lydia mesquita - programação\exercício 4\obj\Debug\net9.0\exercício 4.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\LYDIA-ARQUIVOS-JOGOS-DIGITAIS\Lydia 2 Série A\Lydia mesquita - programação\exercício 4\obj\Debug\net9.0\exercício 4.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\LYDIA-ARQUIVOS-JOGOS-DIGITAIS\Lydia 2 Série A\Lydia mesquita - programação\exercício 4\obj\Debug\net9.0\exercício 4.sourcelink.json
+C:\Users\Aluno\Desktop\LYDIA-ARQUIVOS-JOGOS-DIGITAIS\Lydia 2 Série A\Lydia mesquita - programação\exercício 4\obj\Debug\net9.0\exercício 4.dll
+C:\Users\Aluno\Desktop\LYDIA-ARQUIVOS-JOGOS-DIGITAIS\Lydia 2 Série A\Lydia mesquita - programação\exercício 4\obj\Debug\net9.0\refint\exercício 4.dll
+C:\Users\Aluno\Desktop\LYDIA-ARQUIVOS-JOGOS-DIGITAIS\Lydia 2 Série A\Lydia mesquita - programação\exercício 4\obj\Debug\net9.0\exercício 4.pdb
+C:\Users\Aluno\Desktop\LYDIA-ARQUIVOS-JOGOS-DIGITAIS\Lydia 2 Série A\Lydia mesquita - programação\exercício 4\obj\Debug\net9.0\exercício 4.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\LYDIA-ARQUIVOS-JOGOS-DIGITAIS\Lydia 2 Série A\Lydia mesquita - programação\exercício 4\obj\Debug\net9.0\ref\exercício 4.dll

@@ -1,0 +1,23 @@
+C:\Users\Aluno\Desktop\LYDIA-ARQUIVOS-JOGOS-DIGITAIS\Lydia 2 Série A\Lydia mesquita - programação\Lydia mesquita teste\bin\Debug\net9.0\Lydia mesquita teste.exe
+C:\Users\Aluno\Desktop\LYDIA-ARQUIVOS-JOGOS-DIGITAIS\Lydia 2 Série A\Lydia mesquita - programação\Lydia mesquita teste\bin\Debug\net9.0\Lydia mesquita teste.deps.json
+C:\Users\Aluno\Desktop\LYDIA-ARQUIVOS-JOGOS-DIGITAIS\Lydia 2 Série A\Lydia mesquita - programação\Lydia mesquita teste\bin\Debug\net9.0\Lydia mesquita teste.runtimeconfig.json
+C:\Users\Aluno\Desktop\LYDIA-ARQUIVOS-JOGOS-DIGITAIS\Lydia 2 Série A\Lydia mesquita - programação\Lydia mesquita teste\bin\Debug\net9.0\Lydia mesquita teste.dll
+C:\Users\Aluno\Desktop\LYDIA-ARQUIVOS-JOGOS-DIGITAIS\Lydia 2 Série A\Lydia mesquita - programação\Lydia mesquita teste\bin\Debug\net9.0\Lydia mesquita teste.pdb
+C:\Users\Aluno\Desktop\LYDIA-ARQUIVOS-JOGOS-DIGITAIS\Lydia 2 Série A\Lydia mesquita - programação\Lydia mesquita teste\obj\Debug\net9.0\Lydia mesquita teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\LYDIA-ARQUIVOS-JOGOS-DIGITAIS\Lydia 2 Série A\Lydia mesquita - programação\Lydia mesquita teste\obj\Debug\net9.0\Lydia mesquita teste.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\LYDIA-ARQUIVOS-JOGOS-DIGITAIS\Lydia 2 Série A\Lydia mesquita - programação\Lydia mesquita teste\obj\Debug\net9.0\Lydia mesquita teste.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\LYDIA-ARQUIVOS-JOGOS-DIGITAIS\Lydia 2 Série A\Lydia mesquita - programação\Lydia mesquita teste\obj\Debug\net9.0\Lydia mesquita teste.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\LYDIA-ARQUIVOS-JOGOS-DIGITAIS\Lydia 2 Série A\Lydia mesquita - programação\Lydia mesquita teste\obj\Debug\net9.0\Lydia mesquita teste.sourcelink.json
+C:\Users\Aluno\Desktop\LYDIA-ARQUIVOS-JOGOS-DIGITAIS\Lydia 2 Série A\Lydia mesquita - programação\Lydia mesquita teste\obj\Debug\net9.0\Lydia mesquita teste.dll
+C:\Users\Aluno\Desktop\LYDIA-ARQUIVOS-JOGOS-DIGITAIS\Lydia 2 Série A\Lydia mesquita - programação\Lydia mesquita teste\obj\Debug\net9.0\refint\Lydia mesquita teste.dll
+C:\Users\Aluno\Desktop\LYDIA-ARQUIVOS-JOGOS-DIGITAIS\Lydia 2 Série A\Lydia mesquita - programação\Lydia mesquita teste\obj\Debug\net9.0\Lydia mesquita teste.pdb
+C:\Users\Aluno\Desktop\LYDIA-ARQUIVOS-JOGOS-DIGITAIS\Lydia 2 Série A\Lydia mesquita - programação\Lydia mesquita teste\obj\Debug\net9.0\Lydia mesquita teste.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\LYDIA-ARQUIVOS-JOGOS-DIGITAIS\Lydia 2 Série A\Lydia mesquita - programação\Lydia mesquita teste\obj\Debug\net9.0\ref\Lydia mesquita teste.dll
+C:\Users\Aluno\Desktop\JOGOS-DIGITAIS-2A-2026\Lista 01\Lista 01 - Lydia Mesquita\Lydia mesquita teste\obj\Debug\net9.0\Lydia mesquita teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\JOGOS-DIGITAIS-2A-2026\Lista 01\Lista 01 - Lydia Mesquita\Lydia mesquita teste\obj\Debug\net9.0\Lydia mesquita teste.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\JOGOS-DIGITAIS-2A-2026\Lista 01\Lista 01 - Lydia Mesquita\Lydia mesquita teste\obj\Debug\net9.0\Lydia mesquita teste.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\JOGOS-DIGITAIS-2A-2026\Lista 01\Lista 01 - Lydia Mesquita\Lydia mesquita teste\obj\Debug\net9.0\Lydia mesquita teste.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\JOGOS-DIGITAIS-2A-2026\Lista 01\Lista 01 - Lydia Mesquita\Lydia mesquita teste\obj\Debug\net9.0\Lydia mesquita teste.sourcelink.json
+C:\Users\Aluno\Desktop\JOGOS-DIGITAIS-2A-2026\Lista 01\Lista 01 - Lydia Mesquita\Lydia mesquita teste\obj\Debug\net9.0\Lydia mesquita teste.dll
+C:\Users\Aluno\Desktop\JOGOS-DIGITAIS-2A-2026\Lista 01\Lista 01 - Lydia Mesquita\Lydia mesquita teste\obj\Debug\net9.0\refint\Lydia mesquita teste.dll
+C:\Users\Aluno\Desktop\JOGOS-DIGITAIS-2A-2026\Lista 01\Lista 01 - Lydia Mesquita\Lydia mesquita teste\obj\Debug\net9.0\Lydia mesquita teste.pdb
